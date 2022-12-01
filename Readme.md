@@ -13,4 +13,4 @@
 
 
 
-![](image.png)
+![](https://github.com/MazlumGunes1991/PHP_Class_Odev/blob/main/image/image.png)
